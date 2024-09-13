@@ -1,6 +1,6 @@
 Multilevel Feedback Queue Scheduling with Process Synchronization.
 
-This project simulates a basic operating system environment that handles multiple processes arriving at different times, utilizing a Multilevel Feedback Queue Scheduling Algorithm. The system efficiently manages process execution, memory allocation, and synchronization of critical resources using mutexes.
+This project simulates a basic operating system environment using C. The OS handles multiple processes arriving at different times, utilizing a Multilevel Feedback Queue Scheduling Algorithm. The system efficiently manages process execution, memory allocation, and synchronization of critical resources using mutexes.
 
 Key Features:
 Process Management: Each process is initialized upon arrival, with a dedicated Process Control Block (PCB) that stores essential information like process ID, state, priority, and memory boundaries.
